@@ -20,15 +20,23 @@ At Web Artisan Bros, we offer a range of web design and development services, in
 - Website content writing
 
 
-<img src="https://raw.githubusercontent.com/Web-Artisan-Bros/Web-Artisan-Bros/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-
 ## Getting Started
 
 To get started with our web boutique, please visit our website and browse our services. You can also contact us directly through our website to get a personalized quote.
+
+[![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmariusleica)](www.webartisanbros.com)
+
+<div align="left">
+[![Web Artisan Bros Image](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](https://webartisanbros.com/)
+
+ <a href:"https://webartisanbros.com/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
