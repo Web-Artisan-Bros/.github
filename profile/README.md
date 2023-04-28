@@ -2,7 +2,7 @@
 
 Welcome to Web Artisan Bros! We're a web boutique that specializes in building beautiful, responsive, and easy-to-use websites for individuals and small businesses.
 
-![Web Artisan Bros Image](https://scontent-mxp1-1.xx.fbcdn.net/v/t39.30808-6/335449660_1995338970814881_2778174531312044747_n.png?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=G0i8EHjA06sAX-n53fY&_nc_ht=scontent-mxp1-1.xx&oh=00_AfCnAWmLboB-CCcayMPx8P0r1N8ZqvBVkpzTOWKfSNVR4g&oe=6450C899)
+![Web Artisan Bros Image](https://scontent-mxp1-1.xx.fbcdn.net/v/t39.30808-6/335449660_1995338970814881_2778174531312044747_n.png?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=G0i8EHjA06sAX-n53fY&_nc_ht=scontent-mxp1-1.xx&oh=00_AfCnAWmLboB-CCcayMPx8P0r1N8ZqvBVkpzTOWKfSNVR4g&oe=6450C899)(www.webartisanbros.com)
 
 ## Services
 
@@ -24,16 +24,6 @@ At Web Artisan Bros, we offer a range of web design and development services, in
 
 To get started with our web boutique, please visit our website and browse our services. You can also contact us directly through our website to get a personalized quote.
 
-[![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmariusleica)](www.webartisanbros.com)
-
-<div align="left">
-[![Web Artisan Bros Image](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](https://webartisanbros.com/)
-
- <a href:"https://webartisanbros.com/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
 
 ###
 
