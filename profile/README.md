@@ -4,7 +4,7 @@ Welcome to Web Artisan Bros! We're a web boutique that specializes in building b
 
 
 
-[![Web Artisan Bros Image](https://scontent-mxp1-1.xx.fbcdn.net/v/t39.30808-6/335449660_1995338970814881_2778174531312044747_n.png?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=G0i8EHjA06sAX-n53fY&_nc_ht=scontent-mxp1-1.xx&oh=00_AfCnAWmLboB-CCcayMPx8P0r1N8ZqvBVkpzTOWKfSNVR4g&oe=6450C899)](http://www.webartisanbros.com/)
+[![Web Artisan Bros Image](https://webartisanbros.com/assets/webartisanbros.png)](http://www.webartisanbros.com/)
 
 
 ## Services
