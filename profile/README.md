@@ -30,6 +30,7 @@ To get started with our web boutique, please visit our website and browse our se
 
 <div align="left">
   <a href="https://webartisanbros.com/"><img src="https://img.shields.io/badge/web%20site-f6e077" width="52" height="40" alt="web agency thiene logo"  /></a>
+  <a href="https://webartisanbros.com/"><img src="[https://img.shields.io/badge/web%20site-f6e077](https://www.flaticon.com/free-icon/web_3059997?term=website&page=1&position=10&origin=search&related_id=3059997)" width="52" height="40" alt="web agency thiene logo"  /></a>
   <a href="mailto:info@webartisanbros.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/company/web-artisan-bros/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
   <a href="https://www.facebook.com/WebArtisanBros"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
